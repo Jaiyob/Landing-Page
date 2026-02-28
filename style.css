@@ -34,3 +34,18 @@ body {
     color: #e5e7eb;
 }
 
+.topsection {
+    display: flex;
+    margin: 0;
+    padding: 30px 60px;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+    flex: 1 1 0;
+}
+/*
+.topsection img {
+    width: 100px;
+    height: 50px;
+}
+*/

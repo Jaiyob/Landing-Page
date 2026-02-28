@@ -44,6 +44,11 @@ body {
     font-size: 11px;
 }
 
+.top-left-side {
+    display: flex;
+    flex-direction: column;
+}
+
 #awesome {
     font-size: 24px;
     font-weight: 900;

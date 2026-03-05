@@ -65,6 +65,10 @@ body {
     margin: 0;
 }
 
+#top-secondary {
+    margin: 10px 0;
+}
+
 .topsection * {
     width: 75%;
 }

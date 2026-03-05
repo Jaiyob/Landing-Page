@@ -72,3 +72,8 @@ body {
 .topsection * {
     width: 100%;
 }
+
+.section2 {
+    display: flex;
+    flex-direction: column;
+}

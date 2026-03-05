@@ -51,6 +51,12 @@ body {
 
 .top-left-side button {
     width: 20%;
+    color: white;
+    background-color: #3882f6;
+    border: none;
+    border-radius: 3px;
+    padding: 3px;
+    font-weight: 550;
 }
 
 #awesome {

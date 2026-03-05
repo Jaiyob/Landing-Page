@@ -111,3 +111,8 @@ body {
     font-weight: 300;
     font-style: italic;
 }
+
+#thor {
+    text-align: end;
+    font-weight: 600;
+}

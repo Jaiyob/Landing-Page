@@ -49,6 +49,10 @@ body {
     flex-direction: column;
 }
 
+.top-left-side button {
+    width: 20%;
+}
+
 #awesome {
     font-size: 24px;
     font-weight: 900;

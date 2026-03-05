@@ -80,5 +80,9 @@ body {
     gap: 10px;
 }
 
-
+.image-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
 

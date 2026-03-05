@@ -62,6 +62,7 @@ body {
 #awesome {
     font-size: 24px;
     font-weight: 900;
+    margin: 0;
 }
 
 .topsection * {

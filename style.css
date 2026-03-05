@@ -118,7 +118,8 @@ body {
     font-weight: 600;
 }
 
-/*.section4 {
+.innerdiv {
     background-color: #3882f6;
-    padding: 50px;
-}*/
+    margin: 50px 150px;
+    color: #e5e7eb;
+}

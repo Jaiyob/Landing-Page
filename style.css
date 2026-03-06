@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: Roboto; san-serif;
+    font-family: Roboto, san-serif;
 }
 
 .top-bg {
@@ -124,10 +124,11 @@ body {
     color: #e5e7eb;
     display: flex;
     justify-content: space-around;
+    flex: 0;
 }
 
 .innerdiv button {
-    width: 20%;
+    width: 15%;
     color: white;
     background-color: #3882f6;
     border: solid 2px;

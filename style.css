@@ -88,8 +88,8 @@ body {
 
 .imagebox {
     border: solid 1px #3882f6;
-    height: 150px;
-    width: 150px;
+    height: 100px;
+    width: 100px;
     border-radius: 5px;
     align-items: center;
 }

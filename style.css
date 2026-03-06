@@ -47,6 +47,7 @@ body {
 .top-left-side {
     display: flex;
     flex-direction: column;
+    width: 70%;
 }
 
 .top-left-side button {
@@ -57,7 +58,6 @@ body {
     border-radius: 3px;
     padding: 3px;
     font-weight: 550;
-    width: 70%;
 }
 
 #awesome {

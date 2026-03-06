@@ -51,12 +51,14 @@ body {
 }
 
 .top-left-side button {
-    width: 20%;
+    width: auto;
+    align-self: start;
+    border-radius: 3px;
+    padding: 4px 25px;
     color: white;
     background-color: #3882f6;
     border: none;
     border-radius: 3px;
-    padding: 3px;
     font-weight: 550;
 }
 

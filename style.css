@@ -126,5 +126,13 @@ body {
     justify-content: space-around;
 }
 
-.bottom-left-side {
+.innerdiv button {
+    width: 20%;
+    color: white;
+    background-color: #3882f6;
+    border: solid 2px;
+    border-radius: 3px;
+    padding: 0px;
+    font-weight: 550;
+    border-color: #e5e7eb;
 }

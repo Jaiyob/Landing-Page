@@ -123,5 +123,8 @@ body {
     margin: 50px 150px;
     color: #e5e7eb;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+}
+
+.bottom-left-side {
 }

@@ -128,12 +128,13 @@ body {
 }
 
 .innerdiv button {
-    width: 15%;
+    height: fit-content;
+    align-self: center;
     color: white;
     background-color: #3882f6;
     border: solid 2px;
     border-radius: 3px;
-    padding: 0px;
+    padding: 4px 25px;
     font-weight: 550;
     border-color: #e5e7eb;
 }
